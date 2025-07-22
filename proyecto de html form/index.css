@@ -1,0 +1,10 @@
+
+        .card{
+            width: 1000px;
+            margin: auto;
+            
+        }
+        .card-body{
+
+            display: flex;
+        }
